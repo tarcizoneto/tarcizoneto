@@ -16,7 +16,7 @@
 </div>
 
 
-### Sobre mim ٩(^ᗜ^ )و
+## Sobre mim ٩(^ᗜ^ )و
 - Cursando **Ciência da Computação** no CESAR School;
 - Desenvolvedor de jogos em **Godot** e de ferramentas em **Python e Javascript** *(fullstack em construção)*;
 - Livre para oportunidades de **estágio** e **projetos colaborativos!**
