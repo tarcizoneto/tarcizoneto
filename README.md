@@ -16,12 +16,18 @@
 </div>
 
 
-### Sobre mim
+### Sobre mim ٩(^ᗜ^ )و
 - Cursando **Ciência da Computação** no CESAR School;
 - Desenvolvedor de jogos em **Godot** e de ferramentas em **Python e Javascript** *(fullstack em construção)*;
 - Livre para oportunidades de **estágio** e **projetos colaborativos!**
 
-## Habilidades
+---
+
+
+
+
+
+## Habilidades ᕙ(`▽´)ᕗ
 ### Linguagens de programação:
   ![Python](https://img.shields.io/badge/Python-777777?style=for-the-badge&logo=python&logoColor=FFFFFF)
   ![JavaScript](https://img.shields.io/badge/JavaScript-BBBBBB?style=for-the-badge&logo=javascript&logoColor=000000)
@@ -46,7 +52,7 @@
 
 ### *Estudando no momento:*
   ![Unity](https://img.shields.io/badge/Unity-777777?style=for-the-badge&logo=unity&logoColor=FFFFFF)
-  ![C#](https://img.shields.io/badge/C%23-555555?style=for-the-badge&logo=cshrp&logoColor=FFFFFF)
+  ![C#](https://custom-icon-badges.demolab.com/badge/C%23-555555?style=for-the-badge&logo=cshrp&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-BBBBBB?style=for-the-badge&logo=openjdk&logoColor=000000)
 
 
@@ -69,7 +75,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h2>Me encontre em</h2>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin-white&logoColor=FFFFFF)](https://www.linkedin.com/in/tarcizoneto)
+  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn-white&logoColor=white)](https://www.linkedin.com/in/tarcizoneto)
   [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:tarcizoo.netoo@gmail.com)
   [![itch.io](https://img.shields.io/badge/itch.io-000000?style=for-the-badge&logo=itch.io&logoColor=FFFFFF)](https://icebb.itch.io/)
 
